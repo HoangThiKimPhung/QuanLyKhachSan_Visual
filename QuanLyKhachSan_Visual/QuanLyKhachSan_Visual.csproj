@@ -66,16 +66,22 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="cap-nhat-nguoi-dung.html" />
+    <Content Include="cap-nhat-thong-tin-nguoi-dung.html" />
+    <Content Include="chinh-sua-don-thue-phong.html" />
     <Content Include="CSS\bootstrap-datepicker.css" />
+    <Content Include="CSS\chinh-sua-don-thue-phong.css" />
     <Content Include="CSS\dangnhap.css" />
     <Content Include="CSS\datphong-thongtinKH.css" />
     <Content Include="CSS\datphong.css" />
     <Content Include="CSS\header-menu-footer.css" />
     <Content Include="CSS\nhanvien.css" />
+    <Content Include="CSS\quan-tri-vien.css" />
     <Content Include="CSS\them-don-thue-phong.css" />
     <Content Include="CSS\tim-phong.css" />
     <Content Include="CSS\tra-cuu-khach-dat.css" />
     <Content Include="CSS\tra-cuu-phong.css" />
+    <Content Include="CSS\tra-cuu.css" />
     <Content Include="datphong-thongtinKH.html" />
     <Content Include="DatPhong.html" />
     <Content Include="fonts\fontawesome-webfont.eot" />
@@ -87,6 +93,9 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="JS\chinh-sua-don-thue-phong.js" />
+    <Content Include="JS\them-don-thue-phong.js" />
+    <Content Include="xoa-nguoi-dung.html" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -109,7 +118,7 @@
     <Content Include="CSS\w3.css" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="header.html" />
+    <Content Include="header-NV.html" />
     <Content Include="Images\1.jpg" />
     <Content Include="Images\10.jpg" />
     <Content Include="Images\11.jpg" />
@@ -176,11 +185,16 @@
     <Content Include="JS\tracuu.js" />
     <Content Include="JS\w3.js" />
     <Content Include="JS\wow.min.js" />
-    <Content Include="menu.html" />
+    <Content Include="menu-NV.html" />
     <Content Include="nhan-vien.html" />
+    <Content Include="quan-tri-vien.html" />
     <Content Include="them-don-thue-phong.html" />
+    <Content Include="them-nguoi-dung.html" />
     <Content Include="tim-phong.html" />
+    <Content Include="tra-cuu-dich-vu-KH-da-su-dung.html" />
+    <Content Include="tra-cuu-dich-vu.html" />
     <Content Include="tra-cuu-khach-dat.html" />
+    <Content Include="tra-cuu-khach-hang.html" />
     <Content Include="tra-cuu-phong.html" />
     <Content Include="Web.config" />
   </ItemGroup>
