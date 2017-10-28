@@ -1,0 +1,50 @@
+﻿input {
+    margin-bottom: 15px;
+    
+}
+
+.col-lg-12, col-md-12, col-sm-12, col-xs-12 { 
+    padding-left: 0;
+    font-size:55px;
+}
+
+.thongtin {
+    border: 2px solid beige;
+    padding: 20px;
+    border-radius:5px;
+}
+
+.form{
+    font-size:20px;
+}
+
+.panel-group{
+    font-size:17px;
+}
+
+.form-control {
+    font-size: 16px;
+}
+
+#btnthanhtoan {
+    margin-bottom: 45px;
+    background: #0d875c;
+    color: white;
+    font-size:20px;
+}
+
+#btnthanhtoan:hover {
+    background: #bfa145;
+}
+
+#btntrolai {
+    margin-bottom: 45px;
+    background: #0d875c;
+    color: white;
+    font-size: 20px;
+    margin:10px;
+}
+
+#btntrolai:hover {
+    background: #bfa145;
+}
