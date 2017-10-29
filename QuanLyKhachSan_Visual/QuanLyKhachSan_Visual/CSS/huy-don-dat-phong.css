@@ -2,15 +2,8 @@
     color: black;
 }
 
-h4 {
-    font-weight: bold;
-    color: #0d875c;
-    text-align: center;
-    display: none;
-}
-
-table tbody tr td a {
-    color: blue;
+a {
+    color:red;
 }
 
 .input-group-btn {
@@ -29,8 +22,16 @@ table tbody tr td a {
     background-color: #bfa145;
 }
 
-.chon-phong {
-    margin-right: 10%;
+.input-group-btn a {
+    background-color: #0d875c;
+    color: white;
+    width: 150px;
+    margin-right: 10px;
+}
+
+.input-group-btn a:hover {
+    color: white;
+    background-color: #bfa145;
 }
 
 .co-ket-qua, .khong-co-ket-qua {

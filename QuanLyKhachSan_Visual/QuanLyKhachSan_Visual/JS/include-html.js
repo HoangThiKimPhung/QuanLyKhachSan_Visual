@@ -88,6 +88,30 @@ $(document).ready(function () {
             $("li#submenu5").css("background-color", "#0d875c");
             $("li#submenu5 a:first").attr("style", "color: white !important");
         }
+        else if (path.lastIndexOf('chinh-sua-don-dat-phong.html') >= 0) {
+            namepage = 'QUẢN LÝ ĐẶT PHÒNG > CHỈNH SỬA ĐƠN ĐẶT PHÒNG';
+            namefile = 'chinh-sua-don-dat-phong.html';
+            $("li#submenu4").css("background-color", "#0d875c");
+            $("li#submenu4 a:first").attr("style", "color: white !important");
+        }
+        else if (path.lastIndexOf('them-don-dat-phong.html') >= 0) {
+            namepage = 'QUẢN LÝ ĐẶT PHÒNG > THÊM ĐƠN ĐẶT PHÒNG';
+            namefile = 'them-don-dat-phong.html';
+            $("li#submenu4").css("background-color", "#0d875c");
+            $("li#submenu4 a:first").attr("style", "color: white !important");
+        }
+        else if (path.lastIndexOf('huy-don-dat-phong.html') >= 0) {
+            namepage = 'QUẢN LÝ ĐẶT PHÒNG > HỦY ĐƠN ĐẶT PHÒNG';
+            namefile = 'huy-don-dat-phong.html';
+            $("li#submenu4").css("background-color", "#0d875c");
+            $("li#submenu4 a:first").attr("style", "color: white !important");
+        }
+        else if (path.lastIndexOf('thong-ke-dat-phong.html') >= 0) {
+            namepage = 'QUẢN LÝ ĐẶT PHÒNG > THỐNG KÊ ĐẶT PHÒNG';
+            namefile = 'thong-ke-dat-phong.html';
+            $("li#submenu4").css("background-color", "#0d875c");
+            $("li#submenu4 a:first").attr("style", "color: white !important");
+        }
 
         $('#page-trich-dan').attr("href", namefile);
         $('#page-trich-dan').text(namepage);

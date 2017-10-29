@@ -11,6 +11,11 @@ h4 {
 
 table tbody tr td a {
     color: blue;
+    text-decoration: underline;
+}
+
+.chon-phong {
+    margin-right: 10%;
 }
 
 .input-group-btn {
@@ -29,10 +34,13 @@ table tbody tr td a {
     background-color: #bfa145;
 }
 
-.chon-phong {
-    margin-right: 10%;
-}
 
-.co-ket-qua, .khong-co-ket-qua {
-    display: none;
+@media only screen and (max-width:768px) {
+    h4 {
+        display: block;
+    }
+
+    .chon-phong {
+        margin-right: 0%;
+    }
 }
