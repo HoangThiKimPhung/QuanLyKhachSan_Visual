@@ -1,0 +1,39 @@
+﻿body {
+    color: black;
+}
+
+a {
+    color:red;
+}
+
+.input-group-btn {
+    text-align: right
+}
+
+.input-group-btn button {
+    background-color: #0d875c;
+    color: white;
+    width: 150px;
+    margin-right: 10px;
+}
+
+.input-group-btn button:hover {
+    color: white;
+    background-color: #bfa145;
+}
+
+.input-group-btn a {
+    background-color: #0d875c;
+    color: white;
+    width: 150px;
+    margin-right: 10px;
+}
+
+.input-group-btn a:hover {
+    color: white;
+    background-color: #bfa145;
+}
+
+.co-ket-qua, .khong-co-ket-qua {
+    display: none;
+}
