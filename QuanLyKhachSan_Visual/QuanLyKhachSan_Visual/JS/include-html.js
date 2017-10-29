@@ -88,6 +88,7 @@ $(document).ready(function () {
             $("li#submenu5").css("background-color", "#0d875c");
             $("li#submenu5 a:first").attr("style", "color: white !important");
         }
+<<<<<<< HEAD:QuanLyKhachSan_Visual/QuanLyKhachSan_Visual/JS/include-html.js
         else if (path.lastIndexOf('chinh-sua-don-dat-phong.html') >= 0) {
             namepage = 'QUẢN LÝ ĐẶT PHÒNG > CHỈNH SỬA ĐƠN ĐẶT PHÒNG';
             namefile = 'chinh-sua-don-dat-phong.html';
@@ -111,6 +112,19 @@ $(document).ready(function () {
             namefile = 'thong-ke-dat-phong.html';
             $("li#submenu4").css("background-color", "#0d875c");
             $("li#submenu4 a:first").attr("style", "color: white !important");
+=======
+        else if (path.lastIndexOf('thong-ke-don-thue-phong.html') >= 0) {
+            namepage = 'QUẢN LÝ THUÊ PHÒNG > THỐNG KÊ ĐƠN THUÊ PHÒNG';
+            namefile = 'thong-ke-don-thue-phong.html';
+            $("li#submenu5").css("background-color", "#0d875c");
+            $("li#submenu5 a:first").attr("style", "color: white !important");
+        }
+        else if (path.lastIndexOf('chi-tiet-thong-ke-thue-phong.html') >= 0) {
+            namepage = 'QUẢN LÝ THUÊ PHÒNG > THỐNG KÊ ĐƠN THUÊ PHÒNG > CHI TIẾT';
+            namefile = 'chi-tiet-thong-ke-thue-phong.html';
+            $("li#submenu5").css("background-color", "#0d875c");
+            $("li#submenu5 a:first").attr("style", "color: white !important");
+>>>>>>> 64dc74065298d80ef7c21900d4ed8f9875e272f4:QuanLyKhachSan_Visual/JS/include-html.js
         }
 
         $('#page-trich-dan').attr("href", namefile);

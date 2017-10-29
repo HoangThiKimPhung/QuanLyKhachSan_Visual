@@ -68,8 +68,12 @@
   <ItemGroup>
     <Content Include="cap-nhat-nguoi-dung.html" />
     <Content Include="cap-nhat-thong-tin-nguoi-dung.html" />
+<<<<<<< HEAD:QuanLyKhachSan_Visual/QuanLyKhachSan_Visual/QuanLyKhachSan_Visual.csproj
     <Content Include="chi-tiet-thong-ke-dat-phong.html" />
     <Content Include="chinh-sua-don-dat-phong.html" />
+=======
+    <Content Include="chi-tiet-thong-ke-thue-phong.html" />
+>>>>>>> 64dc74065298d80ef7c21900d4ed8f9875e272f4:QuanLyKhachSan_Visual/QuanLyKhachSan_Visual.csproj
     <Content Include="chinh-sua-don-thue-phong.html" />
     <Content Include="CSS\bootstrap-datepicker.css" />
     <Content Include="CSS\chinh-sua-don-dat-phong.css" />
@@ -83,7 +87,11 @@
     <Content Include="CSS\quan-tri-vien.css" />
     <Content Include="CSS\them-don-dat-phong.css" />
     <Content Include="CSS\them-don-thue-phong.css" />
+<<<<<<< HEAD:QuanLyKhachSan_Visual/QuanLyKhachSan_Visual/QuanLyKhachSan_Visual.csproj
     <Content Include="CSS\thong-ke-dat-phong.css" />
+=======
+    <Content Include="CSS\thong-ke-don-thue-phong.css" />
+>>>>>>> 64dc74065298d80ef7c21900d4ed8f9875e272f4:QuanLyKhachSan_Visual/QuanLyKhachSan_Visual.csproj
     <Content Include="CSS\tim-phong.css" />
     <Content Include="CSS\tra-cuu-khach-dat.css" />
     <Content Include="CSS\tra-cuu-phong.css" />
@@ -105,8 +113,12 @@
     <Content Include="JS\huy-don-dat-phong.js" />
     <Content Include="JS\them-don-dat-phong.js" />
     <Content Include="JS\them-don-thue-phong.js" />
+<<<<<<< HEAD:QuanLyKhachSan_Visual/QuanLyKhachSan_Visual/QuanLyKhachSan_Visual.csproj
     <Content Include="them-don-dat-phong.html" />
     <Content Include="thong-ke-dat-phong.html" />
+=======
+    <Content Include="thong-ke-don-thue-phong.html" />
+>>>>>>> 64dc74065298d80ef7c21900d4ed8f9875e272f4:QuanLyKhachSan_Visual/QuanLyKhachSan_Visual.csproj
     <Content Include="xoa-nguoi-dung.html" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
