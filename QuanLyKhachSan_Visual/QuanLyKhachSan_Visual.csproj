@@ -68,6 +68,7 @@
   <ItemGroup>
     <Content Include="cap-nhat-nguoi-dung.html" />
     <Content Include="cap-nhat-thong-tin-nguoi-dung.html" />
+    <Content Include="chi-tiet-thong-ke-thue-phong.html" />
     <Content Include="chinh-sua-don-thue-phong.html" />
     <Content Include="CSS\bootstrap-datepicker.css" />
     <Content Include="CSS\chinh-sua-don-thue-phong.css" />
@@ -78,6 +79,7 @@
     <Content Include="CSS\nhanvien.css" />
     <Content Include="CSS\quan-tri-vien.css" />
     <Content Include="CSS\them-don-thue-phong.css" />
+    <Content Include="CSS\thong-ke-don-thue-phong.css" />
     <Content Include="CSS\tim-phong.css" />
     <Content Include="CSS\tra-cuu-khach-dat.css" />
     <Content Include="CSS\tra-cuu-phong.css" />
@@ -95,6 +97,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="JS\chinh-sua-don-thue-phong.js" />
     <Content Include="JS\them-don-thue-phong.js" />
+    <Content Include="thong-ke-don-thue-phong.html" />
     <Content Include="xoa-nguoi-dung.html" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
