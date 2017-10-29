@@ -88,6 +88,18 @@ $(document).ready(function () {
             $("li#submenu5").css("background-color", "#0d875c");
             $("li#submenu5 a:first").attr("style", "color: white !important");
         }
+        else if (path.lastIndexOf('thong-ke-don-thue-phong.html') >= 0) {
+            namepage = 'QUẢN LÝ THUÊ PHÒNG > THỐNG KÊ ĐƠN THUÊ PHÒNG';
+            namefile = 'thong-ke-don-thue-phong.html';
+            $("li#submenu5").css("background-color", "#0d875c");
+            $("li#submenu5 a:first").attr("style", "color: white !important");
+        }
+        else if (path.lastIndexOf('chi-tiet-thong-ke-thue-phong.html') >= 0) {
+            namepage = 'QUẢN LÝ THUÊ PHÒNG > THỐNG KÊ ĐƠN THUÊ PHÒNG > CHI TIẾT';
+            namefile = 'chi-tiet-thong-ke-thue-phong.html';
+            $("li#submenu5").css("background-color", "#0d875c");
+            $("li#submenu5 a:first").attr("style", "color: white !important");
+        }
 
         $('#page-trich-dan').attr("href", namefile);
         $('#page-trich-dan').text(namepage);
