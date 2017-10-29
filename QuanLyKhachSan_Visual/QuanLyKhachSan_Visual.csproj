@@ -72,10 +72,7 @@
     <Content Include="chinh-sua-don-thue-phong.html" />
     <Content Include="CSS\bootstrap-datepicker.css" />
     <Content Include="CSS\chinh-sua-don-thue-phong.css" />
-    <Content Include="CSS\dangnhap.css" />
-    <Content Include="CSS\datphong-thongtinKH.css" />
-    <Content Include="CSS\datphong.css" />
-    <Content Include="CSS\header-menu-footer.css" />
+  
     <Content Include="CSS\nhanvien.css" />
     <Content Include="CSS\quan-tri-vien.css" />
     <Content Include="CSS\them-don-thue-phong.css" />
@@ -83,17 +80,7 @@
     <Content Include="CSS\tim-phong.css" />
     <Content Include="CSS\tra-cuu-khach-dat.css" />
     <Content Include="CSS\tra-cuu-phong.css" />
-    <Content Include="CSS\tra-cuu.css" />
-    <Content Include="datphong-thongtinKH.html" />
-    <Content Include="DatPhong.html" />
-    <Content Include="fonts\fontawesome-webfont.eot" />
-    <Content Include="fonts\fontawesome-webfont.ttf" />
-    <Content Include="fonts\fontawesome-webfont.woff" />
-    <Content Include="fonts\fontawesome-webfont.woff2" />
-    <Content Include="fonts\FontAwesome.otf" />
-    <Content Include="fonts\glyphicons-halflings-regular.eot" />
-    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
-    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+   
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="JS\chinh-sua-don-thue-phong.js" />
     <Content Include="JS\them-don-thue-phong.js" />
