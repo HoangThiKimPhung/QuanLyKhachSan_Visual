@@ -95,10 +95,12 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
-    <Content Include="header.html" />
+    <Content Include="huy-don-thue-phong.html" />
+    <Content Include="Images\logo.png" />
     <Content Include="JS\bootstrap-datepicker.js" />
     <Content Include="JS\datphong.js" />
-    <Content Include="menu.html" />
+    <Content Include="ketqua.html" />
+    <Content Include="nhap.html" />
     <Content Include="them-nguoi-dung.html" />
     <Content Include="thong-ke-don-thue-phong.html" />
     <Content Include="xoa-nguoi-dung.html" />
@@ -146,7 +148,6 @@
     <Content Include="Images\hyatt.jpg" />
     <Content Include="Images\hyatt.PNG" />
     <Content Include="Images\logo-hotel.png" />
-    <Content Include="Images\logo.jpg" />
     <Content Include="Images\Morning.mp4" />
     <Content Include="Images\mov_bbb.mp4" />
     <Content Include="Images\pic1.jpg" />

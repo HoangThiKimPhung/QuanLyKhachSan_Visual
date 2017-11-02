@@ -1,5 +1,8 @@
 ﻿$(document).ready(function () {
                     /*TÌM PHÒNG*/
+
+
+
     //Sự kiện Click vào button Tìm trong TÌM PHÒNG
     $("button#btn-tim-phong").click(function (e) {
         e.preventDefault();

@@ -1,5 +1,5 @@
 ﻿.modal-content {
-    border: 5px solid #197485;
+    border: 5px solid #0d875c;
     border-radius: 25px;
 }
 
@@ -12,7 +12,7 @@
 .checkbox-login {
     height: 50px;
     width: 100.2%;
-    background-color: #197485 !important;
+    background-color: #0d875c !important;
     margin-top: 25px;
     margin-bottom: 0px;
     border-bottom: 2px solid #7C7A7A;
@@ -35,17 +35,17 @@ button#btnLogin {
     width: 200px;
     height: 50px;
     border-radius: 30px;
-    background-color: #197485 !important;
-    border: 1px solid #56A1B0 !important;
+    background-color: #0d875c !important;
+    border: 1px solid #0d875c !important;
 }
 
 button#btnLogin:hover {
-    background-color: #56A1B0 !important;
+    background-color: #0d875c !important;
 }
 
 .form-control {
     height: 40px;
-    border: 1px solid #7C7A7A;
+    border: 1px solid #0d875c;
 }
 
 span.error {
